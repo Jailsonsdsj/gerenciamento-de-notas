@@ -33,17 +33,15 @@ Ao abrir o arquivo main.py, faça o login com os seguintes dados:
 
 As interações são realizadas através dos números referentes a cada opção exibida na tela:
 
-![image-20210118114046265](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20210118114046265.png)
+<a href="https://imgur.com/YFb9YTh"><img src="https://i.imgur.com/YFb9YTh.png" title="source: imgur.com" /></a>
 
 
 
-
-
-Caso tenha dúvida ou queira relatar algum bug, fique à vontade para reportar nos cometários 😊.
+---
 
 
 
-Para acessar a versão executável da aplicação, clique aqui.
+Você pode localizar a versão executável da aplicação dentro do diretório em formato .rar ou [clicando aqui](https://github.com/Jailsonsdsj/gerenciamento-de-notas/blob/master/Gerenciamento%20de%20Notas%20Escolares%20-%20Vers%C3%A3o%20Execut%C3%A1vel.rar).
 
 
 
